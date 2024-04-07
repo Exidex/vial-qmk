@@ -10,7 +10,7 @@
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_TIMEOUT 500U
 #define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_LED GP17
 
-#define SPLIT_HAND_PIN GP19
+//#define SPLIT_HAND_PIN GP19
 
 /**************************************************
 ** Include headers specific to keyboard revision **

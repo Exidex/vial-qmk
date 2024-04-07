@@ -1,2 +1,6 @@
-VIA_ENABLE  = yes    # Enable VIA
-VIAL_ENABLE = yes    # Enable VIAL
+VIA_ENABLE  = no    # Enable VIA
+VIAL_ENABLE = no    # Enable VIAL
+#CONSOLE_ENABLE = yes
+#COMMAND_ENABLE = yes
+TAP_DANCE_ENABLE = yes
+KEY_OVERRIDE_ENABLE = yes
